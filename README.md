@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <td width="100">
-      <img src="purrtoows.png" alt="PuwwToows Logo" width="100"/>
+    <td width="200">
+      <img src="purrtoows.png" alt="PuwwToows Logo" width="300"/>
     </td>
     <td>
-      <h1 style="margin-left: 50px;">PuwwToows ✧˚ฅ^•ﻌ•^ฅ✧˚</h1>
+      <h1 style="margin-left: 200px;">PuwwToows ✧˚ฅ^•ﻌ•^ฅ✧˚</h1>
       <p><em>The fwuffiest cybewsecuwity tookit fow hackews with a soft spot~ *boops ur nose* uwu*</em></p>
     </td>
   </tr>
