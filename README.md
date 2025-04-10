@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="purrtoows.png" alt="PuwwToows Wogo" width="200"/>
+</p>
+
 # PuwwToows ✧˚ฅ^•ﻌ•^ฅ✧˚
 
 *The fwuffiest cybewsecuwity tookit fow hackews with a soft spot~ *boops ur nose* uwu*
